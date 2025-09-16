@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Playtest / build
+save/
+www/                       # se MV genera una cartella www per una build
+dist/
+build/
+deploy/
+
+# Cache e file temporanei
+*.tmp
+*~
